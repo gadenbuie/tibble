@@ -11,6 +11,7 @@
       #   qsec <dbl>, vs <dbl>,
       #   am <dbl>, gear <dbl>,
       #   carb <dbl>
+      # ℹ Use `print(n = ...)` to see more rows, and `colnames()` to see all variable names
 
 # trunc_mat for POSIXlt columns (#86)
 
@@ -29,6 +30,7 @@
       7 2016-01-01 12:35:03 2016-01-01 12:35:03
       8 2016-01-01 12:35:04 2016-01-01 12:35:04
       # … with 4 more rows
+      # ℹ Use `print(n = ...)` to see more rows
 
 # trunc_mat for wide-character columns (#100)
 
